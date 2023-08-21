@@ -1,0 +1,45 @@
+body{
+    color:#666666;
+    background-color: #5B9EED;
+}
+.container{
+    max-width: 450px;
+    margin: 30px;
+    margin: auto;
+    background-color: white;
+  
+}
+.item-container{
+    display: flex;
+    border-bottom:1px solid;
+    gap: 15px;
+
+   
+}
+ul{
+    list-style-type: none;
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
+}
+.images{
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+.none{
+    border-bottom: none;
+}
+img{
+    border-radius: 50%;
+}
+.content{
+    line-height: 0.5px;
+    padding-top: 20px;
+
+    
+}
+h4{
+    color: #AAAAAA;
+    font-size: 18px;
+    margin-top:15px;
+
+}
